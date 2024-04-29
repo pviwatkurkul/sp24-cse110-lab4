@@ -18,7 +18,8 @@ Question 13:
 - E: 4, true is treated as 1 and added to 3
 - F: 0, false is 0 and null is treated as 0
 - G: '3undefined', undefined is converted to string and concatenated to 3
-- H: NaN, '3' cannot mathematically subtract an undefined value\
+- H: NaN, '3' cannot mathematically subtract an undefined value  
+
 Question 14:
 - A: true, '2' becomes 2 > 1, which is true
 - B: false, dictionary '12' is not greater than dictionary '2'
