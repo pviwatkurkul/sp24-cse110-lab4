@@ -27,4 +27,5 @@ Question 14:
 - E: false, 1 is not equal to 2
 - F: true, because 2 is converted to boolean which type checks with boolean true
 Question 15: === is a data type comparison and == is an equality test
-Question 16: 
+Question 17: [2,4,6] is printed, when calling modifyArray we pass in an array, and a callback function for the called function to utilize. When we start looping over the elements of the array, for each iteration we call the callback function, doSomething, which multiplies each element by 2. The final array after the loop results in [2,4,6]
+Question 19: 1432
