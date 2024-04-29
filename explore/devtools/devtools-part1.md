@@ -7,4 +7,4 @@ Question 6: GitHub.com\
 Question 7: Thu, 15 Sep 2022 22:44:30 GMT\
 Question 8: application/json; charset=utf-8\
 Question 9: function fetchData() {
-  fetch('./citylots.json')}\
+  fetch('./citylots.json')}

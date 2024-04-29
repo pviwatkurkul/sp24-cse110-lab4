@@ -1,0 +1,2 @@
+Question 1: The bug was that the inputs were being treating as strings and therefore being concantenated as strings. document.getElementById will usually convert inputs into strings.\
+Question 2: I fixed the problem by wrapping the num1 and num2 value in a a parseInt() function to convert it into a number before adding.
